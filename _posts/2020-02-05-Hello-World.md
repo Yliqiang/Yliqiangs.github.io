@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My second blog!
+title: My second blog in GitHub!
 ---
 
 这是我的第二条博客，欢迎大家阅读
