@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My third blog in GitHub!
+title: My third blog in GitHub
 ---
 
 这是我的第三条博客，欢迎大家阅读！
