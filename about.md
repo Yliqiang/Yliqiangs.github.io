@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+华北电力大学（保定）大四在读
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+这个博客是我个人做的一个小小的尝试和学习，其中会记录一些学习路上的事情，欢迎大家阅读和指正
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[277545101@.com](mailto:email@domain.com)
